@@ -1,5 +1,5 @@
 - 👋 Hi, I’m PhaThaHu (Phan Thanh Hung)
-- 👀 I’m interested in nice image, music and travel
+- 👀 I’m interested nice image, music and travel
 - 🌱 I’m working at NeoLab VietNam
 
 <!---
