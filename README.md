@@ -1,5 +1,10 @@
+<img src='https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328710/GithubProfile/avento_mz8ci4.gif'>
+
+My name’s Hùng. I'm 30 years old.I graduated from Da Nang CollegeTechnology with good and I’m (currently) a PHP Developer for more than 4 years.
+I have knowledge about design pattern, OOP. I can give a good solution for applications that will help us save our time in building web applications
+
 - 👋 Hi, I’m PhaThaHu (Phan Thanh Hung)
-- 👀 I’m interested nice image, music and travel
+- 👀 I’m interested nice image, music, food and travel
 - 🌱 I’m working at NeoLab VietNam
 
 <!---
