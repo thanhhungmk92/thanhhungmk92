@@ -1,0 +1,6 @@
+Today's Weather Table:
+{{ template "hourly-table" $todayWeather.HourlyWeathers }}
+Daily Weather Table:
+{{ template "daily-table" .Weathers }}
+Updated at:
+{{ formatTime .UpdatedAt }}
