@@ -1,6 +1,6 @@
 Today's Weather Table:
-{{ template "hourly-table" $todayWeather.HourlyWeathers }}
+{{template "hourly-table" $.TodayWeather.HourlyWeathers}}
 Daily Weather Table:
-{{ template "daily-table" .Weathers }}
+{{template "daily-table" .Weathers}}
 Updated at:
 {{ formatTime .UpdatedAt }}
